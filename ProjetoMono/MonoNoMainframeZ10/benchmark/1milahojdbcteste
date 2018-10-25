@@ -1,0 +1,119 @@
+=============================================================
+             Prevayler vs JDBC Scalability Tests             
+=============================================================
+
+If you have any trouble running the tests, just write to
+prevayler-scalability@lists.sourceforge.net and we will be glad to help.
+
+Reading the properties file:
+/root/ScalabilityTest.properties
+You can edit this file to configure the tests for the next run.
+
+
+
+
+RunPrevaylerQueryTest property is set to NO.
+This test will be skipped (see properties file).
+
+
+
+RunPrevaylerTransactionTest property is set to NO.
+This test will be skipped (see properties file).
+
+
+========= Running Query Test (20 rounds). Subject: JDBC...
+Creating 1000000 objects...
+100000...
+200000...
+300000...
+400000...
+500000...
+600000...
+700000...
+800000...
+900000...
+Each round will take approx. 20 seconds to run...
+
+Memory used: 5792768
+Seconds ellapsed: 20.17
+--------- Round Result: 3,27 operations/second (1 threads)
+
+Memory used: 5792768
+Seconds ellapsed: 20.244
+--------- Round Result: 6,67 operations/second (2 threads)
+
+Memory used: 5792768
+Seconds ellapsed: 20.225
+--------- Round Result: 10,38 operations/second (3 threads)
+
+Memory used: 5792768
+Seconds ellapsed: 20.447
+--------- Round Result: 9,83 operations/second (4 threads)
+
+Memory used: 5229568
+Seconds ellapsed: 20.394
+--------- Round Result: 13,44 operations/second (5 threads)
+
+Memory used: 5229568
+Seconds ellapsed: 20.48
+--------- Round Result: 17,19 operations/second (6 threads)
+
+Memory used: 5348352
+Seconds ellapsed: 20.685
+--------- Round Result: 19,92 operations/second (7 threads)
+
+Memory used: 5348352
+Seconds ellapsed: 20.287
+--------- Round Result: 24,74 operations/second (8 threads)
+
+Memory used: 5446656
+Seconds ellapsed: 20.492
+--------- Round Result: 24,94 operations/second (9 threads)
+
+Memory used: 5569536
+Seconds ellapsed: 20.617
+--------- Round Result: 28,28 operations/second (10 threads)
+
+Memory used: 5569536
+Seconds ellapsed: 20.726
+--------- Round Result: 23,64 operations/second (11 threads)
+
+Memory used: 5688320
+Seconds ellapsed: 20.417
+--------- Round Result: 28,16 operations/second (12 threads)
+
+Memory used: 5688320
+Seconds ellapsed: 20.53
+--------- Round Result: 28,25 operations/second (13 threads)
+
+Memory used: 5820416
+Seconds ellapsed: 20.41
+--------- Round Result: 28,32 operations/second (14 threads)
+
+Memory used: 5820416
+Seconds ellapsed: 20.632
+--------- Round Result: 28,35 operations/second (15 threads)
+
+Memory used: 5820416
+Seconds ellapsed: 20.646
+--------- Round Result: 28,33 operations/second (16 threads)
+
+Memory used: 5984256
+Seconds ellapsed: 20.571
+--------- Round Result: 28,24 operations/second (17 threads)
+
+Memory used: 5984256
+Seconds ellapsed: 21.292
+--------- Round Result: 27,57 operations/second (18 threads)
+
+Memory used: 5984256
+Seconds ellapsed: 20.602
+--------- Round Result: 28,35 operations/second (19 threads)
+
+Memory used: 5984256
+Seconds ellapsed: 21.063
+--------- Round Result: 27,87 operations/second (20 threads)
+
+----------- BEST ROUND: 28,35 operations/second (15 threads)
+
+

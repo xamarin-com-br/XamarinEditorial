@@ -1,0 +1,429 @@
+AMD
+========= Running Query Test (20 rounds). Subject: Prevayler...
+Creating 1000000 objects...
+100000...
+200000...
+300000...
+400000...
+500000...
+600000...
+700000...
+800000...
+900000...
+Each round will take approx. 20 seconds to run...
+
+Memory used: 512000000
+Seconds ellapsed: 20.003
+--------- Round Result: 1570232,97 operations/second (1 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.006
+--------- Round Result: 2395978,11 operations/second (2 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.188
+--------- Round Result: 2054013,87 operations/second (3 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.005
+--------- Round Result: 2215072,33 operations/second (4 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.011
+--------- Round Result: 2303795,46 operations/second (5 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.126
+--------- Round Result: 2196746,94 operations/second (6 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.028
+--------- Round Result: 2304119,83 operations/second (7 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.105
+--------- Round Result: 2420718,43 operations/second (8 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.004
+--------- Round Result: 2357122,13 operations/second (9 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.009
+--------- Round Result: 2895982,76 operations/second (10 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.546
+--------- Round Result: 2487218,78 operations/second (11 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.198
+--------- Round Result: 2259053,87 operations/second (12 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.021
+--------- Round Result: 2285748,76 operations/second (13 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.11
+--------- Round Result: 2285285,48 operations/second (14 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.205
+--------- Round Result: 2266296,46 operations/second (15 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.006
+--------- Round Result: 3718417,62 operations/second (16 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.005
+--------- Round Result: 2242089,23 operations/second (17 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.165
+--------- Round Result: 2233386,56 operations/second (18 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.06
+--------- Round Result: 2277720,49 operations/second (19 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.011
+--------- Round Result: 3758569,24 operations/second (20 threads)
+
+----------- BEST ROUND: 3758569,24 operations/second (20 threads)
+
+========= Running Transaction Test (20 rounds). Subject: Prevayler...
+Creating 1000000 objects...
+100000...
+200000...
+300000...
+400000...
+500000...
+600000...
+700000...
+800000...
+900000...
+Each round will take approx. 20 seconds to run...
+
+Memory used: 512000000
+Disk space used: 654406
+Seconds ellapsed: 20.017
+--------- Round Result: 34,42 operations/second (1 threads)
+
+Memory used: 512000000
+Disk space used: 1223955
+Seconds ellapsed: 20.08
+--------- Round Result: 29,83 operations/second (2 threads)
+
+Memory used: 512000000
+Disk space used: 1909294
+Seconds ellapsed: 20.102
+--------- Round Result: 35,82 operations/second (3 threads)
+
+Memory used: 512000000
+Disk space used: 2676501
+Seconds ellapsed: 20.006
+--------- Round Result: 40,29 operations/second (4 threads)
+
+Memory used: 512000000
+Disk space used: 3626461
+Seconds ellapsed: 20.037
+--------- Round Result: 49,81 operations/second (5 threads)
+
+Memory used: 512000000
+Disk space used: 5077100
+Seconds ellapsed: 20.032
+--------- Round Result: 76,08 operations/second (6 threads)
+
+Memory used: 512000000
+Disk space used: 6412541
+Seconds ellapsed: 20.018
+--------- Round Result: 70,09 operations/second (7 threads)
+
+Memory used: 512000000
+Disk space used: 8163002
+Seconds ellapsed: 20.022
+--------- Round Result: 91,85 operations/second (8 threads)
+
+Memory used: 512000000
+Disk space used: 10125645
+Seconds ellapsed: 20.136
+--------- Round Result: 102,30 operations/second (9 threads)
+
+Memory used: 512000000
+Disk space used: 12197827
+Seconds ellapsed: 20.006
+--------- Round Result: 108,72 operations/second (10 threads)
+
+Memory used: 512000000
+Disk space used: 14660967
+Seconds ellapsed: 20.021
+--------- Round Result: 129,11 operations/second (11 threads)
+
+Memory used: 512000000
+Disk space used: 16589552
+Seconds ellapsed: 20.068
+--------- Round Result: 100,86 operations/second (12 threads)
+
+Memory used: 512000000
+Disk space used: 19082997
+Seconds ellapsed: 20.04
+--------- Round Result: 130,49 operations/second (13 threads)
+
+Memory used: 512000000
+Disk space used: 21979818
+Seconds ellapsed: 20.028
+--------- Round Result: 151,84 operations/second (14 threads)
+
+Memory used: 512000000
+Disk space used: 24877469
+Seconds ellapsed: 20.533
+--------- Round Result: 148,10 operations/second (15 threads)
+
+Memory used: 512000000
+Disk space used: 28282991
+Seconds ellapsed: 20.068
+--------- Round Result: 178,09 operations/second (16 threads)
+
+Memory used: 512000000
+Disk space used: 31085273
+Seconds ellapsed: 20.01
+--------- Round Result: 146,93 operations/second (17 threads)
+
+Memory used: 512000000
+Disk space used: 34611807
+Seconds ellapsed: 20.029
+--------- Round Result: 184,78 operations/second (18 threads)
+
+Memory used: 512000000
+Disk space used: 38328389
+Seconds ellapsed: 20.082
+--------- Round Result: 194,15 operations/second (19 threads)
+
+Memory used: 512000000
+Disk space used: 42367057
+Seconds ellapsed: 20.034
+--------- Round Result: 211,59 operations/second (20 threads)
+
+----------- BEST ROUND: 211,59 operations/second (20 threads)
+
+
+
+
+
+z10 
+
+========= Running Query Test (20 rounds). Subject: Prevayler...
+Creating 1000000 objects...
+100000...
+200000...
+300000...
+400000...
+500000...
+600000...
+700000...
+800000...
+900000...
+Each round will take approx. 20 seconds to run...
+
+Memory used: 512000000
+Seconds ellapsed: 20.014
+--------- Round Result: 1373313,93 operations/second (1 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.306
+--------- Round Result: 2260396,53 operations/second (2 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.019
+--------- Round Result: 2747799,59 operations/second (3 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.814
+--------- Round Result: 2226414,91 operations/second (4 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.086
+--------- Round Result: 2482553,52 operations/second (5 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.041
+--------- Round Result: 2677558,01 operations/second (6 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.064
+--------- Round Result: 2156498,16 operations/second (7 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.023
+--------- Round Result: 2530170,70 operations/second (8 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.219
+--------- Round Result: 2689627,23 operations/second (9 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.009
+--------- Round Result: 2434807,99 operations/second (10 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.116
+--------- Round Result: 2441164,50 operations/second (11 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.013
+--------- Round Result: 2885970,87 operations/second (12 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.036
+--------- Round Result: 2192454,43 operations/second (13 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.159
+--------- Round Result: 2446426,61 operations/second (14 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.002
+--------- Round Result: 2805166,28 operations/second (15 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.002
+--------- Round Result: 2362068,49 operations/second (16 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.326
+--------- Round Result: 2421826,77 operations/second (17 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.279
+--------- Round Result: 2737361,41 operations/second (18 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.2
+--------- Round Result: 2116220,10 operations/second (19 threads)
+
+Memory used: 512000000
+Seconds ellapsed: 20.016
+--------- Round Result: 2692071,34 operations/second (20 threads)
+
+----------- BEST ROUND: 2885970,87 operations/second (12 threads)
+
+========= Running Transaction Test (20 rounds). Subject: Prevayler...
+Creating 1000000 objects...
+100000...
+200000...
+300000...
+400000...
+500000...
+600000...
+700000...
+800000...
+900000...
+Each round will take approx. 20 seconds to run...
+
+Memory used: 512000000
+Disk space used: 5923272
+Seconds ellapsed: 20.007
+--------- Round Result: 311,14 operations/second (1 threads)
+
+Memory used: 512000000
+Disk space used: 15103062
+Seconds ellapsed: 20.003
+--------- Round Result: 481,78 operations/second (2 threads)
+
+Memory used: 512000000
+Disk space used: 25371925
+Seconds ellapsed: 20.003
+--------- Round Result: 538,72 operations/second (3 threads)
+
+Memory used: 512000000
+Disk space used: 34945186
+Seconds ellapsed: 20.003
+--------- Round Result: 502,22 operations/second (4 threads)
+
+Memory used: 512000000
+Disk space used: 48685214
+Seconds ellapsed: 20.006
+--------- Round Result: 720,68 operations/second (5 threads)
+
+Memory used: 512000000
+Disk space used: 62227153
+Seconds ellapsed: 20.002
+--------- Round Result: 710,48 operations/second (6 threads)
+
+Memory used: 512000000
+Disk space used: 74291170
+Seconds ellapsed: 20.114
+--------- Round Result: 629,41 operations/second (7 threads)
+
+Memory used: 512000000
+Disk space used: 90329522
+Seconds ellapsed: 20.006
+--------- Round Result: 841,25 operations/second (8 threads)
+
+Memory used: 512000000
+Disk space used: 104998113
+Seconds ellapsed: 21.009
+--------- Round Result: 732,11 operations/second (9 threads)
+
+Memory used: 512000000
+Disk space used: 120767448
+Seconds ellapsed: 21.089
+--------- Round Result: 783,92 operations/second (10 threads)
+
+Memory used: 512000000
+Disk space used: 136739578
+Seconds ellapsed: 20.042
+--------- Round Result: 835,40 operations/second (11 threads)
+
+Memory used: 512000000
+Disk space used: 154276088
+Seconds ellapsed: 20.009
+--------- Round Result: 918,74 operations/second (12 threads)
+
+Memory used: 512000000
+Disk space used: 168354002
+Seconds ellapsed: 20.005
+--------- Round Result: 737,72 operations/second (13 threads)
+
+Memory used: 512000000
+Disk space used: 184067711
+Seconds ellapsed: 20.004
+--------- Round Result: 823,44 operations/second (14 threads)
+
+Memory used: 512000000
+Disk space used: 202233764
+Seconds ellapsed: 20.235
+--------- Round Result: 941,09 operations/second (15 threads)
+
+Memory used: 512000000
+Disk space used: 214991496
+Seconds ellapsed: 20.13
+--------- Round Result: 664,38 operations/second (16 threads)
+
+Memory used: 512000000
+Disk space used: 233040236
+Seconds ellapsed: 20.778
+--------- Round Result: 910,58 operations/second (17 threads)
+
+Memory used: 512000000
+Disk space used: 252024651
+Seconds ellapsed: 22.729
+--------- Round Result: 875,58 operations/second (18 threads)
+
+Memory used: 512000000
+Disk space used: 268691227
+Seconds ellapsed: 20.131
+--------- Round Result: 867,87 operations/second (19 threads)
+
+Memory used: 512000000
+Disk space used: 285821248
+Seconds ellapsed: 20.008
+--------- Round Result: 897,44 operations/second (20 threads)
+
+----------- BEST ROUND: 941,09 operations/second (15 threads)
+
+
+
